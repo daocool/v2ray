@@ -13,3 +13,14 @@
 ## 更多 V2Ray 教程文章
 https://github.com/233boy/v2ray/wiki
 
+
+# 老版本的一键安装脚本，使用姿势：
+
+```
+git clone --depth 1 --branch v3.9 https://github.com/daocool/v2ray.git
+
+cd v2ray
+chmod +x install.sh
+./install.sh local
+```
+
